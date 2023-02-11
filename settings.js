@@ -21,16 +21,16 @@ global.socialm = "GitHub: nimaofficial" //ur github or insta name
 global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
 
 //bot bomdy 
-global.ownernomer = "94786802371" //ur number
-global.premium = ['94786802371'] //ur premium number
+global.ownernomer = "94714184446" //ur number
+global.premium = ['94716682532'] //ur premium number
 global.botname = 'BLACK DRAGON' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.helacloud.ga" //ur website to be displayed
 global.botscript = 'https://github.com/nimaofficial/Black-Dragon' //script link
 global.themeemoji = "❤️" //ur theme emoji
-global.packname = "Sticker By Black Dragon" //ur sticker watermark packname
-global.author = "Nimesh Official" //ur sticker watermark author
-global.wm = "𝗕𝗟𝗔𝗖𝗞 𝗗𝗥𝗔𝗚𝗢𝗡 𝗜𝗡𝗖" //ur watermark
+global.packname = "Sticker By Niroshan Black Dragon" //ur sticker watermark packname
+global.author = "Niroshan Official" //ur sticker watermark author
+global.wm = "𝗕𝗟𝗔𝗖𝗞 𝗗𝗥𝗔𝗚𝗢𝗡 Niroshan" //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -39,17 +39,17 @@ global.sp = ''
 
 //messages
 global.mess = {
-    success: 'Here you go!',
-    admin: 'This feature could be used by admins only!',
+    success: 'Done...☑️',
+    admin: 'ඇඩ්මින්ලට විතරයි පුලුවන් 🤫',
     botAdmin: 'Bot Must Be Admin First!',
     premime: 'Premium Special Features If You Want to Register Type Rent',
-    owner: 'This feature could be used by owner only',
+    owner: 'අයිතිකාරය මම බං මට විතරයි මේක පුලුවන් ',
     group: 'Features Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature could be used by bot only',
-    wait: 'Please with...',
+    wait: 'පොඩ්ඩක් හිටහං බඩු තාම searching...',
     wal: 'ටිකක් හිටහන් බඩු මග එන ගමන්',
-    linkm: 'Where is the link?',
+    linkm: 'කොහෙද බල්ලො link එක?',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
 }
